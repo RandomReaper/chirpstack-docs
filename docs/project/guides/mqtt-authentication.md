@@ -62,7 +62,7 @@ user chirpstack_gw
 topic write gateway/+/event/+
 topic read gateway/+/command/+
 
-user chirpstackns
+user chirpstack_ns
 topic read gateway/+/event/+
 topic write gateway/+/command/+
 
